@@ -6,7 +6,9 @@ It is important to note that this plugin only works on Counter-Strike: Source.
 
 
 ## Requirements
-In order for the plugin to work, your server must already have [SourceMod](https://www.sourcemod.net/downloads.php?branch=stable) installed.
+In order for the plugin to work, you must have the following installed:
+- [SourceMod](https://www.sourcemod.net/downloads.php?branch=stable) 
+- [SteamWorks](http://users.alliedmods.net/~kyles/builds/SteamWorks/)
 
 
 ## Installation
