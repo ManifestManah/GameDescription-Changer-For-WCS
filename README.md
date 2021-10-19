@@ -1,8 +1,9 @@
-# Game Description Changer For WC:S
+# [WC:S Reignited] Game Description Changer
 
 ## About
 This plugin will change the game description in the game's server browser menu and steam server browser menu from Counter-Strike: Source to Warcraft-Source: Reignited.
-It is important to note that this plugin only works on Counter-Strike: Source.
+
+NOTE: It is important to note that this plugin only works on Counter-Strike: Source.
 
 
 ## Requirements
